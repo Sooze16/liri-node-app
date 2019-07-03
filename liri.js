@@ -1,8 +1,8 @@
 require("dotenv").config();
 
 var keys = require("./keys.js");
+var Spotify = require('node-spotify-api');
 
-var spotify = new Spotify(keys.spotify);
 
 var axios = require("axios");
 
@@ -11,28 +11,29 @@ var fs = require("fs");
 var moment = require("moment");
 
 var command = process.argv[2];
+var searchItem = process.argv.slice(3).join(" ");
 
 
 switch (command) {
     case "concert-this":
-        concertThis();
+        concertThis(searchItem);
         break;
     case "spotify-this-song":
-        spotifyThis();
+        spotifyThis(searchItem);
         break;
     case "movie-this":
-        movieThis();
+        movieThis(searchItem);
         break;
 
     case "do-what-it-says":
-        doWhatIS();
+        doWhatItSays();
         break;
 };
 
-function command()
 
-if (command === movieThis)
-    axios.get("http://www.omdbapi.com/?t=Mr.+Nobody&y=&plot=short&apikey=trilogy").then(
+
+function movieThis(searchItem) {
+    axios.get("http://www.omdbapi.com/?t=" + searchItem + "&y=&plot=short&apikey=trilogy").then(
         function(response) {
             console.log("Title of the movie: " + response.data.Title);
             console.log("Year the movie came out: " + response.data.Year);
@@ -42,48 +43,73 @@ if (command === movieThis)
             console.log("Language of the move: " + response.data.Language);
             console.log("Plot of the movie: " + response.data.Plot);
             console.log("Actors in the movie: " + response.data.Actors);
+            console.log("----------------------------------------------------------------" + "\n")
 
         })
 
+    .catch(function(error) {
+        axios.get("http://www.omdbapi.com/?t=Mr.+Nobody&y=&plot=short&apikey=trilogy").then(
+            function(response) {
+                console.log("Title of the movie: " + response.data.Title);
+                console.log("Year the movie came out: " + response.data.Year);
+                console.log("IMBD Rating of the movie: " + response.data.imdbRating);
+                console.log("Rotton Tomatoes Rating of the movie: " + response.data.Ratings[1].Value);
+                console.log("Country where the moivie was produced: " + response.data.Country);
+                console.log("Language of the move: " + response.data.Language);
+                console.log("Plot of the movie: " + response.data.Plot);
+                console.log("Actors in the movie: " + response.data.Actors);
+                console.log("----------------------------------------------------------------" + "\n")
 
+            })
+    })
+}
 
-.catch(function(error) {
-    if (error.response) {
-        // The request was made and the server responded with a status code
-        // that falls out of the range of 2xx
-        console.log("---------------Data---------------");
-        console.log(error.response.data);
-        console.log("---------------Status---------------");
-        console.log(error.response.status);
-        console.log("---------------Status---------------");
-        console.log(error.response.headers);
-    } else if (error.request) {
-        // The request was made but no response was received
-        // `error.request` is an object that comes back with details pertaining to the error that occurred.
-        console.log(error.request);
-    } else {
-        // Something happened in setting up the request that triggered an Error
-        console.log("Error", error.message);
-    }
-    console.log(error.config);
-})
-
-else if (command === "concertThis") {
+function concertThis(searchItem) {
 
     axios.get("https://rest.bandsintown.com/artists/" + searchItem + "/events?app_id=codingbootcamp").then(
-        function(response) {
+            function(response) {
+                console.log("Artist searched: ", searchItem)
+                console.log("Artist will be playing next at: " + response.data[0].venue.name);
+                console.log("The venue is located at: " + response.data[0].venue.city + ", " + response.data[0].venue.country);
+                console.log("All artists being featured at this event: " + response.data[0].lineup)
+                console.log("The date and time of this event: " + moment(response.data[0].datetime).format("MMMM Do YYYY, h:mm a"));
+                console.log("Tickets are available for purchase at: " + response.data[0].offers[0].url);
+                console.log("Tickets for this event is currently: " + response.data[0].offers[0].status);
+                console.log("-------------------------------------------------------------------" + "\n")
 
-        })
+            })
+        .catch(function(error) {
+            axios.get("https://rest.bandsintown.com/artists/rolling+stones/events?app_id=codingbootcamp").then(
+                function(response) {
+                    console.log("Artist searched: rolling stones", )
+                    console.log("Artist will be playing next at: " + response.data[0].venue.name);
+                    console.log("The venue is located at: " + response.data[0].venue.city + ", " + response.data[0].venue.country);
+                    console.log("All artists being featured at this event: " + response.data[0].lineup)
+                    console.log("The date and time of this event: " + moment(response.data[0].datetime).format("MMMM Do YYYY, h:mm a"));
+                    console.log("Tickets are available for purchase at: " + response.data[0].offers[0].url);
+                    console.log("Tickets for this event is currently: " + response.data[0].offers[0].status);
+                    console.log("-------------------------------------------------------------------" + "\n")
 
+                })
+        });
+}
 
-
-    else if (command === "do-what-it-says") {
-        fs.readFile("random.text, "
-            utf8 ", function(error, random) {
-
-            if (error) {
-                return console.log(random)
-            }
-
-        })
+function spotifyThis(searchItem) {
+    var spotify = new Spotify(keys.spotify);
+    spotify.search({ type: "track", query: searchItem }, function(err, data) {
+        if (err) {
+            console.log(`!!!Error occured: ${err})`);
+            return;
+        }
+        // console.log(data);
+        var songs = data.tracks.items;
+        for (var i = 0; i < songs.length; i++) {
+            // console.log(songs[0]);
+            console.log("Artist(s): " + songs[i].artists[0].name);
+            console.log("Song Name: " + songs[i].name);
+            console.log("Preview songs: " + songs[i].preview_url);
+            console.log("Album: " + songs[i].album.name);
+            console.log("---------------------------------------" + "\n")
+        }
+    })
 }
