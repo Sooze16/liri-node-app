@@ -69,3 +69,9 @@ Edit the text in random.txt to test out the feature for movie-this and concert-t
 - node-spotify-api
 - OMBD api
 - bandsintown API
+
+## Link to video:
+
+- https://drive.google.com/file/d/1gDyJPiDx-W_UEfjyOx4_QBt90Rico7uj/view
+
+

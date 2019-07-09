@@ -1,0 +1,354 @@
+Year the movie came out: 2015
+IMBD Rating of the movie: 6.9
+Rotton Tomatoes Rating of the movie: 84%
+Country where the movie was produced: USA, UK
+Language of the movie: English
+Plot of the movie: When her father unexpectedly dies, young Ella finds herself at the mercy of her cruel stepmother and her scheming stepsisters. Never one to give up hope, Ella's fortunes begin to change after meeting a dashing stranger.
+Actors in the movie: Cate Blanchett, Lily James, Richard Madden, Helena Bonham Carter
+----------------------------------------------------------------
+Hmmm...that does not exist. May I suggest: Mr. Nobody
+IMBD Rating of the movie: 7.8
+Rotton Tomatoes Rating of the movie: 67%
+Country where the moivie was produced: Belgium, Germany, Canada, France, USA, UK
+Language of the move: English, Mohawk
+Plot of the movie: A boy stands on a station platform as a train is about to leave. Should he go with his mother or stay with his father? Infinite possibilities arise from this decision. As long as he doesn't choose, anything is possible.
+Actors in the movie: Jared Leto, Sarah Polley, Diane Kruger, Linh Dan Pham
+----------------------------------------------------------------
+Artist searched: the killers
+Artist will be playing next at: The Colosseum at Caesars Windsor
+The venue is located at: Windsor, Canada
+All artists being featured at this event: The Killers
+The date and time of this event: July 9th 2019, 7:00 pm
+Tickets are available for purchase at: https://www.bandsintown.com/t/101132125?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+Tickets for this event is currently: available
+-------------------------------------------------------------------
+Artist will be playing next at: Express Live!
+The venue is located at: Columbus, United States
+All artists being featured at this event: The Killers
+The date and time of this event: July 11th 2019, 7:00 pm
+Tickets are available for purchase at: https://www.bandsintown.com/t/101124104?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+Tickets for this event is currently: available
+-------------------------------------------------------------------
+Artist will be playing next at: Forecastle Fest 
+The venue is located at: Louisville, United States
+All artists being featured at this event: The Killers
+The date and time of this event: July 12th 2019, 7:00 pm
+Tickets are available for purchase at: https://www.bandsintown.com/t/100812954?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+Tickets for this event is currently: available
+-------------------------------------------------------------------
+Artist will be playing next at: Pilgrimage Music & Cultural Festival
+The venue is located at: Franklin, United States
+All artists being featured at this event: The Killers
+The date and time of this event: September 21st 2019, 7:00 pm
+Tickets are available for purchase at: https://www.bandsintown.com/t/100942905?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+Tickets for this event is currently: available
+-------------------------------------------------------------------
+Artist searched: thisoeklthj
+Hmmm, I don't see that,  May I suggest The Rolling Stones.
+Artist will be playing next at: Mercedes-Benz Superdome
+The venue is located at: New Orleans, United States
+All artists being featured at this event: The Rolling Stones,Ivan Neville,Dumpstaphunk,The Soul Rebels
+The date and time of this event: July 14th 2019, 7:30 pm
+Tickets are available for purchase at: https://www.bandsintown.com/t/1015107978?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket
+Tickets for this event is currently: available
+-------------------------------------------------------------------
+Artist(s): Elton John
+Song Name: Bennie And The Jets - Remastered 2014
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Elton John
+Song Name: Saturday Night’s Alright (For Fighting) - Remastered 2014
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Taron Egerton
+Song Name: Goodbye Yellow Brick Road
+Preview songs: null
+Album: Rocketman (Music From The Motion Picture)
+---------------------------------------
+Artist(s): Elton John
+Song Name: Candle In The Wind - Remastered 2014
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Eminem
+Song Name: Yellow Brick Road
+Preview songs: null
+Album: Encore
+---------------------------------------
+Artist(s): Elton John
+Song Name: Funeral For A Friend / Love Lies Bleeding - Remastered 2014
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Sara Bareilles
+Song Name: Goodbye Yellow Brick Road - Live
+Preview songs: https://p.scdn.co/mp3-preview/05c6f3dcc03af5f6295b86545d42873332e5baab?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Brave Enough: Live at the Variety Playhouse
+---------------------------------------
+Artist(s): Elton John
+Song Name: Goodbye Yellow Brick Road - Remastered
+Preview songs: null
+Album: Diamonds (Deluxe)
+---------------------------------------
+Artist(s): Elton John
+Song Name: Grey Seal - Remastered 2014
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Angus & Julia Stone
+Song Name: Yellow Brick Road
+Preview songs: https://p.scdn.co/mp3-preview/b633fa9a4a7baa00da17fecd305ebcd4f2b1325f?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Down The Way
+---------------------------------------
+Artist(s): Elton John
+Song Name: This Song Has No Title - Remastered 2014
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Elton John
+Song Name: All The Girls Love Alice - Remastered 2014
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Hunter Hayes
+Song Name: Goodbye Yellow Brick Road
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Queens of the Stone Age
+Song Name: Goodbye Yellow Brick Road
+Preview songs: null
+Album: Revamp: The Songs Of Elton John & Bernie Taupin
+---------------------------------------
+Artist(s): Elton John
+Song Name: Goodbye Yellow Brick Road - Remastered 2014
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Miguel
+Song Name: Bennie And The Jets
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Elton John
+Song Name: I've Seen That Movie Too - Remastered 2014
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Eminem
+Song Name: Yellow Brick Road
+Preview songs: null
+Album: Encore (Deluxe Version)
+---------------------------------------
+Artist(s): Elton John
+Song Name: Harmony - Remastered 2014
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Elton John
+Song Name: Sweet Painted Lady - Remastered 2014
+Preview songs: null
+Album: Goodbye Yellow Brick Road (Remastered / Deluxe Edition)
+---------------------------------------
+Artist(s): Boomboys
+Song Name: I Saw the Sign
+Preview songs: https://p.scdn.co/mp3-preview/a85890a1d25345ab67b37e3e0241c152f719bf13?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: 80s 90s Music Dance Songs: Las Mejores Canciones, Éxitos Disco y Música de los 90 y 80 para Bailar
+---------------------------------------
+Artist(s): The Sign Posters
+Song Name: The First Time Ever I Saw Your Face
+Preview songs: https://p.scdn.co/mp3-preview/db9c383b4990f025873435e081f28de747180e63?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Instrumental Love Songs
+---------------------------------------
+Artist(s): Ron Hamrick
+Song Name: I Saw the Sign
+Preview songs: https://p.scdn.co/mp3-preview/dbb52f74aa589ba692e5ddb284f6d45a45aedd3a?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: I Saw the Sign
+---------------------------------------
+Artist(s): Claudelle Clarke
+Song Name: I'll Fly Away/ Sign Me Up/ Write My Name/ Some Day/ The Windows Of Heaven/ What A Mighty God/ When The Roll/ When The Saints/ He'll Take Me Thru/ Meeting In The Air/ I Am Going Home/ John Saw Them Coming/ Daniel Saw The Stone/ I Love That M
+Preview songs: https://p.scdn.co/mp3-preview/fccd251b0a9d513942c19c1dffa0b8136a55cdd7?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Reggae Songs Of Praise
+---------------------------------------
+Artist(s): B Fuse
+Song Name: I Saw the Sign
+Preview songs: https://p.scdn.co/mp3-preview/6b953924ced369bd0f20ea9865d6af7642e213cb?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: In Your Stride / I Saw The Sign
+---------------------------------------
+Artist(s): Aries in a Woe
+Song Name: I Saw the Sign
+Preview songs: https://p.scdn.co/mp3-preview/70365f1880ecbc41d58a28ab30b5b7ace67a9b3c?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: No Candy for Mandy
+---------------------------------------
+Artist(s): Virginia Torres
+Song Name: I Saw the Sign
+Preview songs: https://p.scdn.co/mp3-preview/fa2624db87db553ff322a7e71f7505a6dd18a824?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Things Has Changed
+---------------------------------------
+Artist(s): Thru the Roof
+Song Name: I Saw a Sign
+Preview songs: https://p.scdn.co/mp3-preview/1cbd2f40dda7aad47730c6c65901351814f324ff?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Prophetic Download
+---------------------------------------
+Artist(s): John Bartus
+Song Name: I Saw A Sign
+Preview songs: https://p.scdn.co/mp3-preview/7d18d90cb5a25cf51c81b12f5194cc9fc5f71041?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Live From The Florida Keys
+---------------------------------------
+Artist(s): A Dancer's Delight
+Song Name: I Saw the Sign (Battement Fondu)
+Preview songs: https://p.scdn.co/mp3-preview/0da4a030c87ee49bd2c61c4dff5cb9452a1ab882?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: 90's Pop Songs: Music for Ballet Class, Vol. 2
+---------------------------------------
+Artist(s): A Dancer's Delight
+Song Name: I Saw the Sign (Battement Fondu) [Slower]
+Preview songs: https://p.scdn.co/mp3-preview/393efccacf73d55e8f16fa3ee54157f80e88d2d7?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: 90's Pop Songs: Music for Ballet Class, Vol. 2
+---------------------------------------
+Artist(s): Jon Louisson
+Song Name: I Saw the Sign - Minus Guitar Instrumental Backing Track
+Preview songs: https://p.scdn.co/mp3-preview/7badf0e4f4bba2ade1b7c1d96cefcd4666064725?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Jon's Tracks: Girl Pop, Vol. 1 (Studio Quality Backing Tracks for Guitar Based Performers)
+---------------------------------------
+Artist(s): The Sign Posters
+Song Name: The First Time Ever I Saw Your Face
+Preview songs: https://p.scdn.co/mp3-preview/1a3b66c6cacf4fccc051205556d3e4f0e96ec520?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Instrumental Love Songs - Volume 3
+---------------------------------------
+Artist(s): The Sign Posters
+Song Name: The First Time Ever I Saw Your Face
+Preview songs: https://p.scdn.co/mp3-preview/9bcf803cfc48365a70e743c95c2ae8839a5c2cbd?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Melodies of Love
+---------------------------------------
+Artist(s): The Sign Posters
+Song Name: The First Time Ever I Saw Your Face
+Preview songs: https://p.scdn.co/mp3-preview/9bcf803cfc48365a70e743c95c2ae8839a5c2cbd?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Melodies of Love - Vol. 1
+---------------------------------------
+Artist(s): ATP
+Song Name: In Your Stride
+Preview songs: https://p.scdn.co/mp3-preview/59c2281532fea6f1de4ca887a092d99c8897ff6a?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: In Your Stride / I Saw The Sign
+---------------------------------------
+Artist(s): The Real Group
+Song Name: Swedish Hit Medley: Cotton-Eyed Joe/Dancing Queen/Hooked on a Feeling/I Saw the Sign/It Must Have Been Love
+Preview songs: https://p.scdn.co/mp3-preview/b95a92efb22aac0f501e83732021d138b8475f2a?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: One for All
+---------------------------------------
+Artist(s): Swedish Hit Makers
+Song Name: I Saw the Sign
+Preview songs: https://p.scdn.co/mp3-preview/67436272f57ef2aeb7f82dcfc3347a550d459b67?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: I Saw the Sign
+---------------------------------------
+Artist(s): Swedish Hit Makers
+Song Name: Miss You Like the Deserts Miss the Rain
+Preview songs: https://p.scdn.co/mp3-preview/d3892a3f303a1159494eeb6c806e32308e727979?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: I Saw the Sign
+---------------------------------------
+Artist(s): Karaoke Box
+Song Name: I Saw the Sign (Karaoke Playback with Lead Vocals) [Made Famous by Ace of Base]
+Preview songs: https://p.scdn.co/mp3-preview/56ce61443e2a6475875fb9c5ab0bacf46a2e217f?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Karaoke Box: Reggae Greatest Hits
+---------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: The Hits--Chapter One
+---------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Millennium
+---------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way - Reimagined
+Preview songs: https://p.scdn.co/mp3-preview/7f612d6ba66571500e981e74bb36e14b9906be77?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: I Want It That Way (Reimagined)
+---------------------------------------
+Artist(s): Anthem Lights
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Covers Part IV
+---------------------------------------
+Artist(s): Mick Jensen
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/f8181f66713983fab073e133e23c741acbe00d75?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: I Want It That Way
+---------------------------------------
+Artist(s): "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview songs: https://p.scdn.co/mp3-preview/e217ea111ab84a777f204252fce4b18d5de3ae80?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Poodle Hat
+---------------------------------------
+Artist(s): Jess and Gabriel
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/cc50bfee8d34ec92fda4109243c7ef0e6856f185?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Under the Covers, Vol. 3
+---------------------------------------
+Artist(s): Tyler and Mark
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Beautiful Dreams
+---------------------------------------
+Artist(s): Dynamite Boy
+Song Name: I Want It That Way
+Preview songs: null
+Album: Punk Goes Pop
+---------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/2f96341eb8415a3efb27375db1c4d59928408c2f?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: 90 Sweet 90s Hits!
+---------------------------------------
+Artist(s): Glee Cast
+Song Name: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+Preview songs: https://p.scdn.co/mp3-preview/3aa63b5c98b98ae333e567813e5c720abb2914f0?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Bye Bye Bye / I Want It That Way (Glee Cast Version)
+---------------------------------------
+Artist(s): Steel Panther
+Song Name: I Want It That Way
+Preview songs: null
+Album: I Want It That Way
+---------------------------------------
+Artist(s): Backstreet Boys
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/adf2485de3f3f375593b5307a792e8d8e6f19794?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: NKOTBSB
+---------------------------------------
+Artist(s): Boyce Avenue
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/764f1dcb8c9a9cec099cc361cb388f931bf023d3?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Cover Sessions, Vol. 2
+---------------------------------------
+Artist(s): Scary Pockets
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/33685e005149d5e7d0199a764163ff77f7762e29?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Nu Funk
+---------------------------------------
+Artist(s): Manuel Costa
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/cdde86f49ca4ef217ac08bbbb0c6295c16f015b0?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: I Want It That Way
+---------------------------------------
+Artist(s): Love Hits On Piano
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/f44bea13dbf31275a76f3dee8c40dcf25bd051f1?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Timeless Love
+---------------------------------------
+Artist(s): Scott Bradlee's Postmodern Jukebox
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/53296f4b689baaa0be6d94e8720c044e98d4b3e3?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: Selfies on Kodachrome
+---------------------------------------
+Artist(s): Yshop
+Song Name: I Want It That Way
+Preview songs: https://p.scdn.co/mp3-preview/8d1287b933d37b96943a5041ebcd46c328c9a0ce?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: I Want It That Way
+---------------------------------------
+Artist(s): "Weird Al" Yankovic
+Song Name: Ebay (Parody of "I Want It That Way" by the Backstreet Boys)
+Preview songs: https://p.scdn.co/mp3-preview/5632d8e302d70afaa8f79c962aa4b2032a45b3ef?cid=e207fc29345e47e9a8b1fb20bd3332c6
+Album: The Essential "Weird Al" Yankovic
+---------------------------------------
